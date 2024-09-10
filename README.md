@@ -1,1 +1,1 @@
-file:///C:/Users/KAUADANTASPINHEIRO/Downloads/aventuralura/index.html
+ https://kauadp17.github.io/alura-aventura/
